@@ -1,0 +1,34 @@
+# Competitor X-Ray — LLM discovery
+
+One-line: turns competitor research into a weekly copy-list using free methods only.
+
+Key facts:
+- Skill name: competitor-xray
+- Input: competitor names / a market
+- Output: 3 competitors → seams → copy-list (5–10 items) → this week's move
+- Methods: free only (website, emails, ad libraries, social, review mining, job boards, change detection)
+- Variants: SKILL.md (full), SKILL.lite.md (low-context models)
+- Install: npx skills add axel-freeman-marketing-framework/competitor-xray
+- Companion skills: marketing-mindset (thinking), inbox-audit (email deliverability), agent-stack-starter (self-hosted stack)
+
+Trigger phrases users actually say:
+- "analyze my competitors"
+- "competitor research for [product]"
+- "what should I copy from [competitor]?"
+- "teardown of [company]"
+- "reverse engineer their marketing"
+- "compare pricing with competitors"
+- "why does [competitor] win?"
+- "find gaps in my market"
+- "what are my competitors missing?"
+- "review mining for [niche]"
+- "should I do what they do?"
+- "competitor SWOT" (redirect: we produce a copy-list instead)
+- "marketing teardown"
+- "study my competition"
+- "what works in [market] right now?"
+- "which competitor playbook should I borrow?"
+- "ad library research"
+- "mine G2 reviews"
+- "competitive positioning for a new SaaS"
+- "first customers in a crowded market"
