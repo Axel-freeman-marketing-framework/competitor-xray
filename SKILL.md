@@ -36,8 +36,9 @@ Paid databases are optional accelerators, never requirements. If the user has on
 1. **Identify 3 competitors** that work the user's exact audience right now and make money. If the user names more than 3, cut to the 3 most direct — depth beats breadth.
 2. **X-ray each** through the free channels above. For each, record: offer, promise, price, proof, channel, and the single strongest element.
 3. **Find the seams**: what they all avoid, what users complain about, where the messaging is vague. Seams are openings.
-4. **Produce the copy-list**: 5–10 concrete items. Each item = what to copy, from whom, why it works, what to change for the user's product.
-5. **Rank the copy-list** by speed-to-test: what can be tested this week by one person, free.
+4. **Health-check each competitor**: is their growth marketing-driven (ads, SEO, content) or product-driven (viral loops, funding burn)? Flag non-replicable advantages — don't put them on the copy-list.
+5. **Produce the copy-list**: 5–10 concrete items. Each item = what to copy, from whom, why it works, what to change for the user's product.
+6. **Rank the copy-list** by speed-to-test: what can be tested this week by one person, free.
 
 ## Output (mandatory shape)
 
@@ -45,6 +46,20 @@ Paid databases are optional accelerators, never requirements. If the user has on
 2. **The seams** — gaps all of them share
 3. **Copy-list** — 5–10 items, ranked by speed-to-test
 4. **This week's move** — the single item to run first
+
+### Copy-list item format (use exactly)
+
+```
+| # | Copy | From | Why it works for them | Adapt for <user's product> |
+```
+
+Each row is one sentence per cell. Example row (for a fictional inbox-AI product):
+
+```
+| 1 | Outcome-led hero copy ("never miss a client email") | SaneBox | Outcome > features for non-technical buyers | Rewrite hero to consultant pain: proposal threads, follow-up debt |
+```
+
+A copy-list row without all four cells is incomplete — don't ship it.
 
 ## Voice
 
